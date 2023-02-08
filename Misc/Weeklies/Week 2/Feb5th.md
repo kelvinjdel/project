@@ -1,0 +1,4 @@
+- reading LCD datasheet, would be really useful for my presentation
+- lowkey, would be mad cool if we made our own lcd-tft driver with the fpga to output to a larger display; just an idea for the latter half
+- LCD displays too complex for me right now but itll be useful for the presentation with that one screenshot alone. break time, then we journal for a bit before getting a demo
+- 
