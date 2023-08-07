@@ -1,1 +1,0 @@
-https://www.pjrc.com/store/teensy41.html so much info

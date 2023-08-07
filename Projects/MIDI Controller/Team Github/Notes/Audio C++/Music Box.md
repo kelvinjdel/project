@@ -1,0 +1,1 @@
+I will be working on this more tomorrow, but I will be mostly following this https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board as it closely resembles my circuit I have already soldered and uses a framework I am comfortable with

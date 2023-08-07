@@ -1,0 +1,1 @@
+I will be looking into code to test two circuits tomorrow, tuesday 08/08/23, to test SD card and mp3 functionality. My main goal in this regard is to make a music box to begin testing the organizational structure and learn how we can integrate it into the system we have in place for the midi controller as is.
