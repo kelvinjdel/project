@@ -1,0 +1,2 @@
+This was a fun project that involved using VHDL and a Spartan 7 FPGA to simulate a vending machine functionality, dispensing a piece of candy when 25 cents were reached. 
+Just very fun to play around in the testbenches to debug and optimize the code, as alot of issues with timing were easily developed if we werent careful with the timings between the FSM and binary counters involved with resets in the system.

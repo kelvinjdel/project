@@ -1,0 +1,3 @@
+I have always been intimidated to learn the process of web development and I want to take this opportunity to learn and add "full-stack developer" to my skillset. I will be using this folder to organize my growth in this area, using tools like the Odin project, boot.dev, a udemy course, cloud training certifications, etc. 
+
+From my understanding of the landscape of web development, I would love to be able to write backend code in Rust, APIs/networking in Go, and frontend in python/typescript. I need to be able to utilize Qiskit in a way to properly display information on the web, and no matter what I will be building a useful skillset to market from and potentially profit from professionally, aside from just tinkering for fun

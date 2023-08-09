@@ -16,7 +16,7 @@ High Priorityv
 - More about Git, will help with collaborations
 
 - Udemy Course #microcontroller 
-- Message in a forum; [[Arduino]] [[PlatformIO]] 
+- Message in a forum; [[Spellbook/Education/Workstation/git-repo/Projects/MIDI Controller/Team Github/Notes/Software/Arduino IDE/Arduino]] [[PlatformIO]] 
 - digilent/nandland experiments #fpga
 
 

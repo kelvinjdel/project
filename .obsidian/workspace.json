@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e39df4c57e41a23",
+        "id": "d97fe331d9a72d12",
         "type": "tabs",
         "children": [
           {
-            "id": "9854e389af6845d3",
+            "id": "43c252dc407d6c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,8 +154,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9854e389af6845d3",
+  "active": "43c252dc407d6c73",
   "lastOpenFiles": [
-    "New Text Document.txt"
+    "Untitled.canvas",
+    "Misc/References.md",
+    "Misc/Planner.md",
+    "Readme.md",
+    "2023-08-09.md",
+    "Projects/Miscellaneous/Chess Robotic Arm.md",
+    "Projects/Miscellaneous/DND tracking system.md",
+    "Projects/Miscellaneous/EKG.md",
+    "Projects/Miscellaneous/VHDL Vending machine.md",
+    "Projects/Miscellaneous/tech pics/arm.mov",
+    "Projects/Miscellaneous/tech pics/3d printer.jpeg",
+    "Projects/Miscellaneous/tech pics/bluetooth.mov",
+    "Projects/Miscellaneous/tech pics/GPU.mp4",
+    "Projects/Miscellaneous/tech pics/old pc.jpeg",
+    "Projects/Miscellaneous/tech pics/PC building.jpeg",
+    "Projects/Miscellaneous/tech pics/PC building 3.jpg",
+    "Projects/Miscellaneous/tech pics/PC building 4.mp4",
+    "Projects/Miscellaneous/tech pics/simple testing.mov",
+    "Projects/Miscellaneous/tech pics/small test circuits.jpg",
+    "Projects/Miscellaneous/tech pics/small test circuits 2.jpeg",
+    "Projects/Miscellaneous/tech pics/SPI display.jpeg",
+    "Projects/Miscellaneous/tech pics/soldering set up.jpeg",
+    "Projects/Miscellaneous/Notes on misc tech pics.md",
+    "Projects/Miscellaneous/DNDtesting.ino",
+    "Projects/8 Bit breadboard CPU/media/Timer Module.mp4",
+    "Projects/8 Bit breadboard CPU/media/Timer And ALU.jpeg",
+    "Projects/8 Bit breadboard CPU/media/temp workshop.jpeg",
+    "Projects/Miscellaneous/tech pics/Video_1.MOV",
+    "Projects/Miscellaneous/tech pics/IMG_6957 (1).MOV",
+    "Projects/Kelvin notes/Dailies/2023-08-07.md",
+    "Projects/Kelvin notes/Dailies/2023-08-09.md",
+    "Projects/8 Bit breadboard CPU/8 Bit Breadboard CPU.md",
+    "Projects/Miscellaneous/tech pics/machine code testing.mp4",
+    "Projects/Full-Stack practice/Tech Stack.md",
+    "Projects/Full-Stack practice/Untitled.md",
+    "Projects/Full-Stack practice/Web development motivation.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/PlatformIO.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/Microsoft.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/Arduino IDE/Arduino.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/Software/PlatformIO.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/Software/Arduino.md",
+    "Projects/MIDI Controller/Team Github/Notes/Software/Software/Microsoft.md"
   ]
 }

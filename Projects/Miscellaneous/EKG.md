@@ -1,0 +1,1 @@
+I remember taking a circuits class in Boston where we touched on high pass and low pass filters, and we were able to create an EKG using these concepts to read a heartbeat using a sensor that we put on our arms. just making a note out of it because it was pretty cool
