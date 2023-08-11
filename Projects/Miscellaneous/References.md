@@ -1,5 +1,5 @@
 
-	Quick Table of Contents of material I can add from later
+	early Table of Contents of material I can add from later, will update soon
 - Mbed OS
 - UART/SPI/I2C
 - ST-Link; 
