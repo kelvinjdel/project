@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Miscellaneous/References.md",
+                "file": "Projects/Full-Stack practice/Web development motivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Miscellaneous/References.md",
+                "file": "Projects/Full-Stack practice/Web development motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Miscellaneous/References.md",
+                "file": "Projects/Full-Stack practice/Web development motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Miscellaneous/References.md"
+                "file": "Projects/Full-Stack practice/Web development motivation.md"
               }
             }
           },
@@ -154,44 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d4d9e91e353ef84",
+  "active": "43c252dc407d6c73",
   "lastOpenFiles": [
+    "Projects/Full-Stack practice/Tech Stack.md",
+    "Projects/Full-Stack practice/Web development motivation.md",
+    "KelvinAugust2023Resume.pdf",
     "Readme.md",
-    "Misc/Planner.md",
+    "Projects/Miscellaneous/Resources/Resources.md",
+    "Projects/Miscellaneous/resources/Web Resources.md",
+    "Projects/Miscellaneous/Tech pics/textbooks.jpg",
+    "Projects/Miscellaneous/Resources",
+    "resources.HEIC",
     "Untitled.canvas",
     "Projects/Miscellaneous/References.md",
+    "IMG_0535.HEIC",
+    "Misc/Planner.md",
     "2023-08-09.md",
     "Projects/Miscellaneous/Chess Robotic Arm.md",
     "Projects/Miscellaneous/DND tracking system.md",
     "Projects/Miscellaneous/EKG.md",
     "Projects/Miscellaneous/VHDL Vending machine.md",
-    "Projects/Miscellaneous/tech pics/arm.mov",
-    "Projects/Miscellaneous/tech pics/3d printer.jpeg",
-    "Projects/Miscellaneous/tech pics/bluetooth.mov",
-    "Projects/Miscellaneous/tech pics/GPU.mp4",
-    "Projects/Miscellaneous/tech pics/old pc.jpeg",
-    "Projects/Miscellaneous/tech pics/PC building.jpeg",
-    "Projects/Miscellaneous/tech pics/PC building 3.jpg",
-    "Projects/Miscellaneous/tech pics/PC building 4.mp4",
-    "Projects/Miscellaneous/tech pics/simple testing.mov",
-    "Projects/Miscellaneous/tech pics/small test circuits.jpg",
-    "Projects/Miscellaneous/tech pics/small test circuits 2.jpeg",
-    "Projects/Miscellaneous/tech pics/SPI display.jpeg",
-    "Projects/Miscellaneous/tech pics/soldering set up.jpeg",
+    "Projects/Miscellaneous/Tech pics/arm.mov",
+    "Projects/Miscellaneous/Tech pics/3d printer.jpeg",
+    "Projects/Miscellaneous/Tech pics/bluetooth.mov",
+    "Projects/Miscellaneous/Tech pics/GPU.mp4",
+    "Projects/Miscellaneous/Tech pics/old pc.jpeg",
+    "Projects/Miscellaneous/Tech pics/PC building.jpeg",
+    "Projects/Miscellaneous/Tech pics/PC building 3.jpg",
+    "Projects/Miscellaneous/Tech pics/PC building 4.mp4",
+    "Projects/Miscellaneous/Tech pics/simple testing.mov",
+    "Projects/Miscellaneous/Tech pics/small test circuits.jpg",
+    "Projects/Miscellaneous/Tech pics/small test circuits 2.jpeg",
+    "Projects/Miscellaneous/Tech pics/SPI display.jpeg",
+    "Projects/Miscellaneous/Tech pics/soldering set up.jpeg",
     "Projects/Miscellaneous/Notes on misc tech pics.md",
     "Projects/Miscellaneous/DNDtesting.ino",
-    "Projects/8 Bit breadboard CPU/media/Timer Module.mp4",
     "Projects/8 Bit breadboard CPU/media/Timer And ALU.jpeg",
-    "Projects/8 Bit breadboard CPU/media/temp workshop.jpeg",
-    "Projects/Miscellaneous/tech pics/Video_1.MOV",
-    "Projects/Miscellaneous/tech pics/IMG_6957 (1).MOV",
     "Projects/Kelvin notes/Dailies/2023-08-07.md",
     "Projects/Kelvin notes/Dailies/2023-08-09.md",
     "Projects/8 Bit breadboard CPU/8 Bit Breadboard CPU.md",
-    "Projects/Miscellaneous/tech pics/machine code testing.mp4",
-    "Projects/Full-Stack practice/Tech Stack.md",
     "Projects/Full-Stack practice/Untitled.md",
-    "Projects/Full-Stack practice/Web development motivation.md",
     "Projects/MIDI Controller/Team Github/Notes/Software/PlatformIO.md",
     "Projects/MIDI Controller/Team Github/Notes/Software/Microsoft.md",
     "Projects/MIDI Controller/Team Github/Notes/Software/Arduino IDE/Arduino.md",

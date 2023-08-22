@@ -9,5 +9,6 @@ Express
 
 I am new to this all so I am not sure what it means necessasrily, but I am excited nonetheless to put my education to the keyboard and have fun with it all
 
-off the bat, one thing I can imagine myself building in conjunction to what Ive learned and will continue to potentially learn is a web browser game that takes in MIDI input. I dont know how this would work, but it would be really fun to try.
+off the bat, one thing I can imagine myself building in conjunction to what Ive learned and will continue to potentially learn is a web browser game that takes in MIDI input. I dont know how this would work, but it would be really fun to try, especially as I learn WebAssembly later on as well
 
+Code will be stored in the Coding Practice/javascripttesting directory as I learn along with a MERN course on UDEMY
