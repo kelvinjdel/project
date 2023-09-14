@@ -6,8 +6,7 @@ const int channel = 1;
 const int num = 12;
 const int buttonPins[num] = {2,3,4,5,6,7,8,9,10,11,12,24};
 const int RotaryPins[3] = {28,27,26}; //A B SW
-const String KeySignatureSharp[12] = {"E", "F", "F#", "G", "G#", "A", "A#", "B", "C", "C#", "D", "D#"};
-const String KeySignatureFlat[12] = {"E", "F", "Gb", "G", "Ab", "A", "Bb", "B", "C", "Db", "D", "Eb"};
+C
 
 ClickEncoder encoder(RotaryPins[0], RotaryPins[1], RotaryPins[2]);
 volatile bool aFlag = false;

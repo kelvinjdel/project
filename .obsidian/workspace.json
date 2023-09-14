@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Full-Stack practice/Web development motivation.md",
+                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Full-Stack practice/Web development motivation.md",
+                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Full-Stack practice/Web development motivation.md",
+                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Full-Stack practice/Web development motivation.md"
+                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md"
               }
             }
           },
@@ -151,13 +151,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "43c252dc407d6c73",
   "lastOpenFiles": [
-    "Projects/Full-Stack practice/Tech Stack.md",
     "Projects/Full-Stack practice/Web development motivation.md",
+    "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
+    "Pasted image 20230911095441.jpg",
+    "Pasted image 20230911094914.jpg",
+    "Pasted image 20230911094900.png",
+    "Projects/Full-Stack practice/Tech Stack.md",
     "KelvinAugust2023Resume.pdf",
     "Readme.md",
     "Projects/Miscellaneous/Resources/Resources.md",
@@ -185,11 +190,8 @@
     "Projects/Miscellaneous/Tech pics/simple testing.mov",
     "Projects/Miscellaneous/Tech pics/small test circuits.jpg",
     "Projects/Miscellaneous/Tech pics/small test circuits 2.jpeg",
-    "Projects/Miscellaneous/Tech pics/SPI display.jpeg",
-    "Projects/Miscellaneous/Tech pics/soldering set up.jpeg",
     "Projects/Miscellaneous/Notes on misc tech pics.md",
     "Projects/Miscellaneous/DNDtesting.ino",
-    "Projects/8 Bit breadboard CPU/media/Timer And ALU.jpeg",
     "Projects/Kelvin notes/Dailies/2023-08-07.md",
     "Projects/Kelvin notes/Dailies/2023-08-09.md",
     "Projects/8 Bit breadboard CPU/8 Bit Breadboard CPU.md",
