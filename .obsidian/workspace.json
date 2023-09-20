@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee87308fe492df4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Kelvin notes/Menu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
+                "file": "Projects/Kelvin notes/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
+                "file": "Projects/Kelvin notes/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md"
+                "file": "Projects/Kelvin notes/Menu.md"
               }
             }
           },
@@ -155,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43c252dc407d6c73",
+  "active": "ee87308fe492df4e",
   "lastOpenFiles": [
+    "Projects/Kelvin notes/Menu.md",
     "Projects/Full-Stack practice/Web development motivation.md",
     "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
     "Pasted image 20230911095441.jpg",
