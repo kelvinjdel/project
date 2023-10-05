@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Kelvin notes/Menu.md",
+                "file": "Projects/Kelvin notes/Dailies/2023-09-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d184b1c06d67d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/MIDI Controller/Team Github/Weeklies/9-29-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Kelvin notes/Menu.md",
+                "file": "Projects/MIDI Controller/Team Github/Weeklies/9-29-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Kelvin notes/Menu.md",
+                "file": "Projects/MIDI Controller/Team Github/Weeklies/9-29-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Kelvin notes/Menu.md"
+                "file": "Projects/MIDI Controller/Team Github/Weeklies/9-29-23.md"
               }
             }
           },
@@ -168,53 +180,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee87308fe492df4e",
+  "active": "9d4d9e91e353ef84",
   "lastOpenFiles": [
+    "Projects/MIDI Controller/Team Github/Weeklies/9-29-23.md",
+    "Coding practice/Debian/Linux/Linux notes.md",
+    "Coding practice/Debian/Linux",
+    "Coding practice/Debian",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/work-products.bin",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/uyalzrxrdgq1rfs.o",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/query-cache.bin",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/iik1zyhdj9cp9ar.o",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/dep-graph.bin",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/9ku7an4udrbhiu1.o",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/320jv4hqeg9llr33.o",
+    "Coding practice/Rusttests/guessing_game/target/debug/incremental/guessing_game-1iwij4u1yimbz/s-goz37dv7h7-1h1imdm-7xmmr2280xdv6jlenjkw1y2ys/8x8cfojngaeatcp.o",
     "Projects/Kelvin notes/Menu.md",
-    "Projects/Full-Stack practice/Web development motivation.md",
+    "Projects/Kelvin notes/Dev environment.md",
     "Projects/MIDI Controller/Team Github/Notes/Hardware/Rotary Encoder and OLED.md",
-    "Pasted image 20230911095441.jpg",
-    "Pasted image 20230911094914.jpg",
-    "Pasted image 20230911094900.png",
+    "Projects/MIDI Controller/Team Github/Notes/MIDI pics/Pasted image 20230911095441.jpg",
+    "Projects/MIDI Controller/Team Github/Notes/MIDI pics/Pasted image 20230911094900.png",
+    "Projects/MIDI Controller/Team Github/Notes/MIDI pics/Pasted image 20230911094914.jpg",
+    "Projects/Kelvin notes/Dailies/2023-09-22.md",
+    "Projects/Full-Stack practice/Web development motivation.md",
     "Projects/Full-Stack practice/Tech Stack.md",
-    "KelvinAugust2023Resume.pdf",
     "Readme.md",
     "Projects/Miscellaneous/Resources/Resources.md",
     "Projects/Miscellaneous/resources/Web Resources.md",
     "Projects/Miscellaneous/Tech pics/textbooks.jpg",
-    "Projects/Miscellaneous/Resources",
-    "resources.HEIC",
     "Untitled.canvas",
     "Projects/Miscellaneous/References.md",
-    "IMG_0535.HEIC",
     "Misc/Planner.md",
     "2023-08-09.md",
     "Projects/Miscellaneous/Chess Robotic Arm.md",
     "Projects/Miscellaneous/DND tracking system.md",
     "Projects/Miscellaneous/EKG.md",
     "Projects/Miscellaneous/VHDL Vending machine.md",
-    "Projects/Miscellaneous/Tech pics/arm.mov",
     "Projects/Miscellaneous/Tech pics/3d printer.jpeg",
-    "Projects/Miscellaneous/Tech pics/bluetooth.mov",
-    "Projects/Miscellaneous/Tech pics/GPU.mp4",
     "Projects/Miscellaneous/Tech pics/old pc.jpeg",
     "Projects/Miscellaneous/Tech pics/PC building.jpeg",
     "Projects/Miscellaneous/Tech pics/PC building 3.jpg",
-    "Projects/Miscellaneous/Tech pics/PC building 4.mp4",
-    "Projects/Miscellaneous/Tech pics/simple testing.mov",
     "Projects/Miscellaneous/Tech pics/small test circuits.jpg",
     "Projects/Miscellaneous/Tech pics/small test circuits 2.jpeg",
     "Projects/Miscellaneous/Notes on misc tech pics.md",
-    "Projects/Miscellaneous/DNDtesting.ino",
     "Projects/Kelvin notes/Dailies/2023-08-07.md",
     "Projects/Kelvin notes/Dailies/2023-08-09.md",
     "Projects/8 Bit breadboard CPU/8 Bit Breadboard CPU.md",
     "Projects/Full-Stack practice/Untitled.md",
     "Projects/MIDI Controller/Team Github/Notes/Software/PlatformIO.md",
     "Projects/MIDI Controller/Team Github/Notes/Software/Microsoft.md",
-    "Projects/MIDI Controller/Team Github/Notes/Software/Arduino IDE/Arduino.md",
-    "Projects/MIDI Controller/Team Github/Notes/Software/Software/PlatformIO.md",
-    "Projects/MIDI Controller/Team Github/Notes/Software/Software/Arduino.md",
-    "Projects/MIDI Controller/Team Github/Notes/Software/Software/Microsoft.md"
+    "Projects/MIDI Controller/Team Github/Notes/Software/Arduino IDE/Arduino.md"
   ]
 }

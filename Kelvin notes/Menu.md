@@ -6,6 +6,7 @@
 | 13-16 | Networking |
 | 17-20 | Python     |
 
+Udemy, Rust website, ARM assembly, Cisco networking, SQL/RUST
 
 | d20   | project       |
 | ----- | ------------- |
