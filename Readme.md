@@ -1,8 +1,13 @@
 
 # Introduction
-- Hey there, I'm Kelvin Jhoer De Leon, a computer engineer and hobbyist looking to use this repository as a way to showcase my technical skills and areas of research I am actively integrating into it as well. 
+- Hi there, I'm Kelvin Jhoer De Leon, a computer engineer and hobbyist(Embedded Systems, Quantum Computing, Networking, etc. ) looking to use this repository as a way to store and organize projects and information for myself and others.
+
+# Areas of Interest
+- I am storing my projects under https://github.com/kelvinjdel/project, where I am storing my different projects related to my technical skills. I will do my best to include all the relevant files necessary to document these projects moving forward as well.
 # Goals
-- I hope that these pages serve to showcase my growing interest and understanding in embedded systems, full-stack development, networking, and quantum computing as I look for professional and academic opportunities. I also wish for this to serve as a large source of information for myself in learning different technologies, languages, and concepts.
+- I plan on focusing my efforts in embedded systems for the foreseeable future, and eventually Quantum Computing after a Master's. 
+- I am working on my robotics, Neovim efficiency, 
+
 # About me
 ## Education
 - Chaminade High School, Mineola, NY

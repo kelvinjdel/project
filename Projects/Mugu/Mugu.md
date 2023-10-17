@@ -15,4 +15,5 @@ I updated the motor shield to use mosfets and have begun circuit analysis on a p
 
 For now, I have done a good amount of progress designing and building a music box, so I have an 98735a Max I2S amplifier soldered to an ESP8266, 
 
-Currently working on Neovim environment stuff to close out the day. I will get back to working on this tomorrow as well
+Currently working on Neovim environment stuff to close out the day. I will get back to working on this tomorrow as well.
+
