@@ -1,0 +1,8 @@
+ I'm going to try to play a little with CircuitPython. 
+If I can link Qiskit and send information through an MCU
+#embedded and IOT, + low  level linux gcc compiler understanding/Rust maybe,
+#just going to enjoy the process and get back to this note in the future
+#following a youtube channel DIY builder guide for the set up, then look 
+#UNO guides, then circuitpython guides, then cook something with I2C/SPI
+stuff. I'll draw a schematic later
+ 
