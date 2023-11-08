@@ -1,6 +1,6 @@
 
 # Introduction
-- Hi there, I'm Kelvin Jhoer De Leon, a computer engineer and hobbyist(Embedded Systems, Quantum Computing, Networking, etc. ) looking to use this repository as a way to store and organize projects and information for myself and others.
+- Hi there, I'm Kelvin Jhoer De Leon, a computer engineer and hobbyist(Embedded Systems, Quantum Computing) looking to use this repository as a way to store and organize projects and information for myself and others.
 
 # Areas of Interest
 - I am storing my projects under https://github.com/kelvinjdel/project, where I am storing my different projects related to my technical skills. I will do my best to include all the relevant files necessary to document these projects moving forward as well.

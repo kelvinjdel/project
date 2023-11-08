@@ -17,3 +17,5 @@ For now, I have done a good amount of progress designing and building a music bo
 
 Currently working on Neovim environment stuff to close out the day. I will get back to working on this tomorrow as well.
 
+Week 3 update:
+I bought some assorted ICs to play with and will be aiming to get a Mugu test run going today :3
