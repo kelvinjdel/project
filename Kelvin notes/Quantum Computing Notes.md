@@ -1,0 +1,1 @@
+Started Qiskit again, set up virtual environment with prerequisites in my WSL linux. 
