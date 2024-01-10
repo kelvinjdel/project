@@ -19,3 +19,33 @@ Currently working on Neovim environment stuff to close out the day. I will get b
 
 Week 3 update:
 I bought some assorted ICs to play with and will be aiming to get a Mugu test run going today :3
+
+Winter break: 
+I am starting some work on the power supply after some research, and have soldered a 2s 18650 battery with a bms, and will test charging and the motor performance to get a better understanding of the datasheet ratings of amperage and wattage of the digital system of the UNO
+https://us.reddit.com/r/AskElectronics/wiki/batteries#wiki_bms_is_not_a_charger
+
+Mugu is using 9900mAh, 4 motors
+https://www.verical.com/datasheet/adafruit-brushless-dc-motors-3777-5912007.pdf
+
+12/28/2023
+Testing an esp8266 mic system that takes from the ADC through DMA
+https://www.youtube.com/watch?v=pPh3_ciEmzs
+
+12/31/23 
+looking into Motor shield schematics before I start testing with the new battery:
+https://learn.adafruit.com/assets/9536
+
+Drew sparks today for the first time out of my bench power supply which was cool, precharged my batteries' bms and am now getting 8.035 at the leads and I am going to test the next part
+
+Everything seems to be working okay. next test should prioritize handling my amperage, so I will look to solutions later (maybe some sort of high impedance with  conversion via resistance for amperage to voltage reading of the microcontroller, leading to Ohms law estimations.) Ideally, each motor's amperage can be read, killed, and controlled with the Microcontroller's estimations. Some PID elements could be done, sending information to the FPGA. Right now, I am labelling the motors, and I will be dissecting the header files for now.
+
+I finished editing my initial test file and so far all my tests look good. I will see if I can implement that camera with it or something along those lines, but I am excited to continue to test
+
+1/2/23 
+
+Working on fixing my Neovim Config today. Mugu's progress comes from my patience.
+
+11/10/23
+
+![[Pasted image 20240110114731.png]]
+added some configurations to my terminal and can start working on my project. I want to have something visual to show for Mugu by the 22nd
