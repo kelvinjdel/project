@@ -49,3 +49,9 @@ Working on fixing my Neovim Config today. Mugu's progress comes from my patience
 
 ![[Pasted image 20240110114731.png]]
 added some configurations to my terminal and can start working on my project. I want to have something visual to show for Mugu by the 22nd
+
+01/22/24 
+
+I finished soldering for my audio signal processing with an ESP8266, a voltage divider to lower the output from Max4466. The goal is to use the ESP8266 as an ADC, software bandwidth filter, to serial encoder, most likely SPI with the FPGA. The Ice FPGA will then take the inputs and use an open source VHDL FFT library to send a pitch to the RP2040 which will handle any MIDI for the system using circuitpython. very early in the process, but I have my IDE, battery management, and hardware all ready and in place, so now I can just take my time and test until success
+
+https://www.youtube.com/watch?v=yqkISICHH-U
